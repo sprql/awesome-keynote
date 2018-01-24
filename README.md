@@ -1,6 +1,7 @@
 # Awesome Keynote
 A curated list of awesome keynotes
 
+* [Architecture the Lost Years](https://youtu.be/hALFGQNeEnU) — Robert Martin at Ruby Midwest (2011)
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) — Rich Hickey at Rails Conf (2012)
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) — Joe Armstrong at Strange Loop (2014)
 * [Why Simplicity Matters: A Hardware Perspective](https://youtu.be/WGXPFPKQC2o) — Adreas Olofsson at Erlang Factory SF (2015)
