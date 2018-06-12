@@ -9,3 +9,4 @@ A curated list of awesome keynotes
 * [Spec-ulation](https://youtu.be/oyLBGkS5ICk) — Rich Hickey (2016)
 * [Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=ktBlGj5gGUY) — Jonas Bonér at EUC17 (2017)
 * [Work in Progress How to Make the World a Better Place](https://www.youtube.com/watch?v=F3ETR4rXZco) — Joe Armstrong at Erlang & Elixir Factory SF (2017)
+* [How to teach programming and other things?](https://www.youtube.com/watch?v=UJxXgugvXmE) — Felienne Hermans at Lambda Days (2018)
